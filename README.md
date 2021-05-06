@@ -3,11 +3,11 @@
 
 ## I'm a Developer and i am still developing.
 
-- 🤞 I just started a new progamming language.
+- 🤞 I just started a new programming language.
 - 🌱 I’m currently learning everything. 🤣
 - 👯 I’m looking to learn more and be better developer than what i am right now.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to draw and play football(vitrual/real).
+- ⚡ Fun fact: I love to draw and play football(virtual/real).
 
 
 <br />
