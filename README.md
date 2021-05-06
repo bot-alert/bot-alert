@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ashishkhatiwad1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ashishkhatiwad1" height="30" width="40" /></a>
+<a href="https://twitter.com/ashishkhatiwad1" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_16x16.png?_ga=2.18019070.653594351.1620295953-651080644.1620295953" alt="ashishkhatiwad1" height="30" width="40" /></a>
 <a href="https://fb.com/ashish1khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="ashish1khatiwada" height="30" width="40" /></a>
 <a href="https://instagram.com/ashish_khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ashish_khatiwada" height="30" width="40" /></a>
 </p>
