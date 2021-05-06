@@ -1,6 +1,5 @@
 ### Hi there, I'm Ashish - aka [bot-alert] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AshishKhatiwad1?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbot-alert&screen_name=bot-alert)
 
 ## I'm a Developer and i am still developing.
 
@@ -10,13 +9,6 @@
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to draw and play football(vitrual/real).
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ashishkhatiwad1" target="blank"><img align="center" src="https://cdn.exclaimer.com/Handbook%20Images/instagram-icon_16x16.png?_ga=2.18019070.653594351.1620295953-651080644.1620295953" alt="ashishkhatiwad1" height="30" width="40" /></a>
-<a href="https://fb.com/ashish1khatiwada" target="blank"><img align="center"  alt="ashish1khatiwada" height="30" width="40" /><path d="M15 35.8C6.5 34.3 0 26.9 0 18 0 8.1 8.1 0 18 0s18 8.1 18 18c0 8.9-6.5 16.3-15 17.8l-1-.8h-4l-1 .8z"></path></a>
-<a href="https://instagram.com/ashish_khatiwada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="ashish_khatiwada" height="30" width="40" /></a>
-</p>
 
 <br />
 
